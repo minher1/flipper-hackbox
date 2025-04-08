@@ -7,6 +7,9 @@
 > 🎛️ A payload lab for Flipper Zero — Wi-Fi, RFID, IR, and BLE hacking demos, plus defensive scripts for security awareness training.
 
 ---
+## 🎥 Flipper Payload Demo (Visual)
+
+![Flipper Zero in action](flipper.png)
 
 ## 🎯 Real-World Use Cases
 

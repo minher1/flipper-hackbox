@@ -19,5 +19,6 @@
 ---
 
 ## 📂 Project Structure
+payloads/ ├── ir/ ├── rfid/ ├── bluetooth/ defensive-mode/ flash.sh
 
 

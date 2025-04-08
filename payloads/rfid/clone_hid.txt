@@ -1,0 +1,2 @@
+# Clone an HID ProxCard II
+125kHz 0xAABBCCDD

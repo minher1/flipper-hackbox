@@ -9,7 +9,7 @@
 ---
 ## 🎥 Flipper Payload Demo (Visual)
 
-![Flipper Zero in action](flipper.png)
+![Flipper Zero in action](flipper1.png)
 
 ## 🎯 Real-World Use Cases
 

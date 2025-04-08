@@ -1,0 +1,1 @@
+# BLE spammer sample payload\nBLE:FF:EE:DD:CC:BB
